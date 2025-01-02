@@ -1,4 +1,4 @@
-package com.fifteen.eureka.common.role;
+package com.berry.common.role;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

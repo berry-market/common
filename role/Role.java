@@ -1,4 +1,4 @@
-package com.fifteen.eureka.common.role;
+package com.berry.common.role;
 
 public enum Role {
   ADMIN,

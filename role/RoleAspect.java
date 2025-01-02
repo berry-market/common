@@ -1,8 +1,8 @@
-package com.fifteen.eureka.common.role;
+package com.berry.common.role;
 
 
-import com.fifteen.eureka.common.exceptionhandler.CustomApiException;
-import com.fifteen.eureka.common.response.ResErrorCode;
+import com.berry.common.exceptionhandler.CustomApiException;
+import com.berry.common.response.ResErrorCode;
 import jakarta.servlet.http.HttpServletRequest;
 import java.util.Objects;
 import lombok.RequiredArgsConstructor;
