@@ -1,12 +1,12 @@
-package com.fifteen.eureka.common.exceptionhandler;
+package com.berry.common.exceptionhandler;
 
 import org.springframework.core.annotation.Order;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-import com.fifteen.eureka.common.response.ApiResponse;
-import com.fifteen.eureka.common.response.ResErrorCode;
+import com.berry.common.response.ApiResponse;
+import com.berry.common.response.ResErrorCode;
 
 import lombok.extern.slf4j.Slf4j;
 

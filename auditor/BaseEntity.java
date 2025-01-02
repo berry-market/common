@@ -1,4 +1,4 @@
-package com.fifteen.eureka.common.auditor;
+package com.berry.common.auditor;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package com.fifteen.eureka.common.auditor;
+package com.berry.common.auditor;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;

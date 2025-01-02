@@ -1,4 +1,4 @@
-package com.fifteen.eureka.common.auditor;
+package com.berry.common.auditor;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;

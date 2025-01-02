@@ -1,7 +1,7 @@
-package com.fifteen.eureka.common.exceptionhandler;
+package com.berry.common.exceptionhandler;
 
-import com.fifteen.eureka.common.response.ApiResponse;
-import com.fifteen.eureka.common.response.ResErrorCode;
+import com.berry.common.response.ApiResponse;
+import com.berry.common.response.ResErrorCode;
 import jakarta.validation.ConstraintViolationException;
 import java.util.List;
 import java.util.stream.Collectors;

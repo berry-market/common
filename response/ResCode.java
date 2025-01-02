@@ -1,4 +1,4 @@
-package com.fifteen.eureka.common.response;
+package com.berry.common.response;
 
 public interface ResCode {
 
