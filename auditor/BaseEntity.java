@@ -40,7 +40,7 @@ public abstract class BaseEntity {
 
   private String deletedBy;
 
-  @Column(nullable = false)
+  @Column(name = "deleted_yn", nullable = false)
   private boolean deletedYN = false;
 
   public void markAsDeleted() {
